@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RestClient": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\afischman\\AppData\\Roaming\\Postman\\backup-2024-01-25T20-31-11.471Z.json\" \"D:\\DEV\\Tooling\\Postman\\HTTP Requests (from backup)\" "
+    }
+  }
+}
